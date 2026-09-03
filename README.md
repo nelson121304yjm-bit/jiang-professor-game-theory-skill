@@ -5,6 +5,7 @@ Predictive History `Game Theory` 系列蒸馏出的可调用 Codex skills 与中
 ## Contents
 
 - `skills/`: six focused analysis capabilities and a router for the series framework.
+- `skills/global-market-game-theory/`: news-to-positioning workflow for US equities and global macro research.
 - `Predictive_History_江教授_博弈论系列学习笔记.docx`: Chinese notes covering the 30-episode playlist.
 
 ## Source
