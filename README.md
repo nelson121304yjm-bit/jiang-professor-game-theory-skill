@@ -1,6 +1,6 @@
-# Predictive History Game Theory
+# 江教授博弈论skill
 
-Predictive History `Game Theory` series distilled into reusable Codex skills and a Chinese study note.
+Predictive History `Game Theory` 系列蒸馏出的可调用 Codex skills 与中文学习笔记。
 
 ## Contents
 
